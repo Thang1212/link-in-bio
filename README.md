@@ -18,6 +18,6 @@ Welcome to **Link-in-bio**empowers you to create a personalized, stylish landing
 
 See Link-in-bio action! Check out:
 
-[Link in bio demo 1](src/images/link-in-bio-demo-1.png)
+![Link in bio demo 1](src/images/link-in-bio-demo-1.png)
 
-[Link in bio demo 2](src/images/link-in-bio-demo-2.png)
+![Link in bio demo 2](src/images/link-in-bio-demo-2.png)
